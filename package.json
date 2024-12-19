@@ -34,9 +34,12 @@
     "postcss": "8.4.49",
     "react": "19.0.0",
     "react-dom": "19.0.0",
+    "react-hook-form": "^7.53.2",
     "react-scan": "^0.0.50",
     "recharts": "^2.15.0",
+    "sonner": "^1.7.1",
     "tailwindcss": "3.4.16",
+    "axios": "^1.7.9",
     "typescript": "5.7.2",
     "use-debounce": "^10.0.4",
     "zod": "^3.23.8"
